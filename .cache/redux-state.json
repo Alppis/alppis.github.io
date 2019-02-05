@@ -235,7 +235,7 @@
       "resolve": "/home/miikka/Documents/Git repos/alppis.github.io",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "d41d8cd98f00b204e9800998ecf8427e",
+      "version": "1765dc1a09ca4259f2c6e13db0f4cc1d",
       "pluginOptions": {
         "plugins": []
       },
@@ -270,7 +270,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "fcafa24b9f7c69f1502949ef627ff351",
+        "contentDigest": "17c263d529216dc85ff1b11f72f437e0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -384,13 +384,33 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-05T13:45:59.813Z",
+      "buildTime": "2019-02-05T17:32:57.105Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "1d34191809fafeca2c48b927f3f83855",
+        "contentDigest": "63fe1f41ecbdbb1ff565fdf83e3a52fb",
         "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/home/miikka/Documents/Git repos/alppis.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "d6a742dc-632b-5745-827c-4a3ce639f7f5",
+      "pluginCreatorId": "d6a742dc-632b-5745-827c-4a3ce639f7f5",
+      "componentPath": "/home/miikka/Documents/Git repos/alppis.github.io/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9adfd30e23e122a47ccb59475c850732",
+        "description": "d6a742dc-632b-5745-827c-4a3ce639f7f5",
         "owner": "internal-data-bridge"
       }
     },
@@ -413,11 +433,31 @@
         "description": "d6a742dc-632b-5745-827c-4a3ce639f7f5",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/home/miikka/Documents/Git repos/alppis.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/home/miikka/Documents/Git repos/alppis.github.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "99fc747f0c8495c9c9f0609abf5ff0a3",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "1c18af8458e91e2a7e877e5e30ed9660"
+    "PLUGINS_HASH": "d9fc2d7d0cc5469176b5050355138afe"
   },
   "componentDataDependencies": {
     "nodes": {},
@@ -425,12 +465,18 @@
   },
   "jsonDataPaths": {
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E"
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "/home/miikka/Documents/Git repos/alppis.github.io/.cache/dev-404-page.js": {
       "query": "",
       "componentPath": "/home/miikka/Documents/Git repos/alppis.github.io/.cache/dev-404-page.js"
+    },
+    "/home/miikka/Documents/Git repos/alppis.github.io/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/home/miikka/Documents/Git repos/alppis.github.io/src/pages/404.js"
     },
     "/home/miikka/Documents/Git repos/alppis.github.io/src/pages/index.js": {
       "query": "",

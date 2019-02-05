@@ -1,0 +1,16 @@
+html {
+    background-color: #383c4a;
+    margin: 3rem auto;
+    max-width: 600px;
+    justify-content: center;
+    align-content: center;
+    text-align: justify;
+}
+
+h1 {
+    color: #ccc;
+}
+
+p {
+    color: #ccc;
+}
