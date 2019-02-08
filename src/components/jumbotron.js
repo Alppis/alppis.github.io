@@ -1,8 +1,9 @@
 import React from "react"
 
 export default () => (
-    <div>
-        <h1 className="testi">Miikka Alaperä</h1>
+    <div className="center">
+        <img src="https://source.unsplash.com/random/200x200" id="hero"/>
+        <h1>Miikka Alaperä</h1>
         <p>Information Processing Science student at the
             University of Oulu. Master's thesis currently in the
             making. Interested in UI/UX design, usability and web
