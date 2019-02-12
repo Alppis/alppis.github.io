@@ -7,10 +7,10 @@ import Footer from "../components/footer"
 
 export default () => (
     <div>
-        <div id="jumbotron">
+        <div id="jumbotron" className="fullWidth">
             <Jumbotron />
         </div>
-        <div id="works">
+        <div id="works" className="fullWidth">
             <div id="worksWrapper" className="center">
                 <h1>Works</h1>
                 <Works 
@@ -30,7 +30,7 @@ export default () => (
         <div id="skills">
             <Skills />
         </div>
-        <div id="contact">
+        <div id="contact" className="fullWidth">
             <Contact />
         </div>
         <div id="footer">

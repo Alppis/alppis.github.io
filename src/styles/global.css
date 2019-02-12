@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 
+html, body {
+    overflow-x: hidden;
+}
+
 html {
     background-color: #383c4a;
     font-family: 'Comfortaa', cursive;
@@ -10,7 +14,7 @@ h1 {
     text-align: center;
 }
 
-h3 {
+h3, p {
     color: #ccc;
 }
 
@@ -18,14 +22,13 @@ h4 {
     color: #5294e2;
 }
 
-p {
-    color: #ccc;
+.fullWidth {
+    margin: 0 -9999rem;
+    padding: 0.25rem 9999rem;
 }
 
 #jumbotron {
-    overflow: hidden;
-    margin: 0 -9999rem;
-    padding: 0.25rem 9999rem;
+    font-weight: 500;
 }
 
 #hero {
@@ -38,9 +41,6 @@ p {
 
 #works {
     background-color: #404552;
-    overflow: hidden;
-    margin: 0 -9999rem;
-    padding: 0.25rem 9999rem;
     border-top: 3px solid #323742;
     border-bottom: 3px solid #323742;
 }
@@ -86,28 +86,29 @@ p {
 .htmlSkill {
     width: 90%;
     background-color: #5294e2;
+    border-radius: 25px;
 }
 
 .cssSkill {
     width: 70%;
     background-color: #5294e2;
+    border-radius: 25px;
 }
 
 .javascriptSkill {
     width: 60%;
     background-color: #5294e2;
+    border-radius: 25px;
 }
 
 .reactSkill {
     width: 30%;
     background-color: #5294e2;
+    border-radius: 25px;
 }
 
 #contact {
     background-color: #404552;
-    overflow: hidden;
-    margin: 0 -9999rem;
-    padding: 0.25rem 9999rem;
     border-top: 3px solid #323742;
     border-bottom: 3px solid #323742;
 }
@@ -120,3 +121,24 @@ p {
     color: #5294e2;
     text-align: center;
 }
+
+/**/
+.column {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+/**/
