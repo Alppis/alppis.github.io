@@ -1,7 +1,7 @@
-import React from "react"
+import React from 'react'
 
 export default () => (
-    <div className="center">
+    <div className='center'>
         <p>Made with GatsbyJS by Miikka Alaperä</p>
     </div>
 )

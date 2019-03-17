@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/home/miikka/Documents/Git repositories/alppis.github.io/.cache/dev-404-page.js",
+      "component": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/home/miikka/Documents/Git repositories/alppis.github.io/.cache/dev-404-page.js",
+      "componentPath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b461d9ab8e1ca2161c091e5641d67083",
+        "contentDigest": "e7d6ddc2b122df00e553833dd8a59b40",
         "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
     "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
-      "resolve": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "972b394ca5673ea6e7edff4f9e254ae6",
+        "contentDigest": "2303e01c2ecf8c97965cf445b480d374",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1fc32581-893a-55e8-8927-bcd667e2b700": {
-      "resolve": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b75206296b262cd91a2926a805a2b2f6",
+        "contentDigest": "f3407859d91ac71f21a4a71c7306dc22",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
-      "resolve": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ada4b31730b4bf1550a08dabe98b7290",
+        "contentDigest": "19fa637b15513e0d67f5ccad28333c15",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
-      "resolve": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "d13223ee41229f902a5487ac91dfe5c1",
+        "contentDigest": "70b3f094c72f35925298faf0b6dc8fe5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84dad27f-1d44-51fc-ac56-4db2e5222995": {
-      "resolve": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,13 +191,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e6672d0f34a8a9edda445f173acd033a",
+        "contentDigest": "11a7860cb82a12c5f0c883f9358e537a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
-      "resolve": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "resolve": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
       "name": "webpack-theme-component-shadowing",
       "version": "1.0.0",
@@ -209,7 +209,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "pluginFilepath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "packageJson": {
         "name": "webpack-theme-component-shadowing",
         "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
@@ -226,23 +226,23 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "121a4756ae9b5b2d6caec33b60bb4470",
+        "contentDigest": "5d9316fb27ee94da8ee594b7e89d1779",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
-      "resolve": "/home/miikka/Documents/Git repositories/alppis.github.io",
+      "resolve": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "93e2abc31a971b294a9494122ff8eded",
+      "version": "50ffef45922ca65a0755600a0ee9b4ba",
       "pluginOptions": {
         "plugins": []
       },
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/miikka/Documents/Git repositories/alppis.github.io",
+      "pluginFilepath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io",
       "packageJson": {
         "name": "gatsby-starter-hello-world",
         "description": "A simplified bare-bones starter for Gatsby",
@@ -266,7 +266,40 @@
             "version": "^1.6.1"
           }
         ],
-        "devDependencies": [],
+        "devDependencies": [
+          {
+            "name": "babel-eslint",
+            "version": "^10.0.1"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.15.2"
+          },
+          {
+            "name": "eslint-config-standard",
+            "version": "^12.0.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.16.0"
+          },
+          {
+            "name": "eslint-plugin-node",
+            "version": "^8.0.1"
+          },
+          {
+            "name": "eslint-plugin-promise",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.12.4"
+          },
+          {
+            "name": "eslint-plugin-standard",
+            "version": "^4.0.0"
+          }
+        ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
@@ -274,19 +307,19 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "771bbf21dbaddc407ea25da830010ebf",
+        "contentDigest": "3f68722530cd9456a141b3beed35f0fd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "3a705018-d908-548d-9aa2-389077e65915": {
-      "resolve": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby-plugin-page-creator",
-      "id": "3a705018-d908-548d-9aa2-389077e65915",
+    "90aa1b4e-eea1-5ac3-993b-b1092207cf12": {
+      "resolve": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby-plugin-page-creator",
+      "id": "90aa1b4e-eea1-5ac3-993b-b1092207cf12",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.6",
       "pluginOptions": {
         "plugins": [],
-        "path": "/home/miikka/Documents/Git repositories/alppis.github.io/src/pages",
+        "path": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -294,7 +327,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/miikka/Documents/Git repositories/alppis.github.io/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -377,7 +410,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "9bbadef52f3b92111db03df07f375236",
+        "contentDigest": "afcfa6cbd65642371c4150bc28eebfd5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -388,12 +421,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-08T19:32:53.996Z",
+      "buildTime": "2019-03-17T20:37:52.832Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "7e1370e3cc47e82ecb8668089165118f",
+        "contentDigest": "4b625d9623e8180902c699ce7cab454f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -402,19 +435,19 @@
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/home/miikka/Documents/Git repositories/alppis.github.io/src/pages/404.js",
+      "component": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "pluginCreator___NODE": "3a705018-d908-548d-9aa2-389077e65915",
-      "pluginCreatorId": "3a705018-d908-548d-9aa2-389077e65915",
-      "componentPath": "/home/miikka/Documents/Git repositories/alppis.github.io/src/pages/404.js",
+      "pluginCreator___NODE": "90aa1b4e-eea1-5ac3-993b-b1092207cf12",
+      "pluginCreatorId": "90aa1b4e-eea1-5ac3-993b-b1092207cf12",
+      "componentPath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e42d304c75c2f6d0ecc910051c5aa15f",
-        "description": "3a705018-d908-548d-9aa2-389077e65915",
+        "contentDigest": "c23e2380cead7c31ab80e0ada26844fc",
+        "description": "90aa1b4e-eea1-5ac3-993b-b1092207cf12",
         "owner": "internal-data-bridge"
       }
     },
@@ -422,19 +455,19 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/home/miikka/Documents/Git repositories/alppis.github.io/src/pages/index.js",
+      "component": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "pluginCreator___NODE": "3a705018-d908-548d-9aa2-389077e65915",
-      "pluginCreatorId": "3a705018-d908-548d-9aa2-389077e65915",
-      "componentPath": "/home/miikka/Documents/Git repositories/alppis.github.io/src/pages/index.js",
+      "pluginCreator___NODE": "90aa1b4e-eea1-5ac3-993b-b1092207cf12",
+      "pluginCreatorId": "90aa1b4e-eea1-5ac3-993b-b1092207cf12",
+      "componentPath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/src/pages/index.js",
       "id": "SitePage /",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "daad52b5cc01ad994c3ea17d6fd811fa",
-        "description": "3a705018-d908-548d-9aa2-389077e65915",
+        "contentDigest": "b01a73959c4b6e5c46a4a05ecc076193",
+        "description": "90aa1b4e-eea1-5ac3-993b-b1092207cf12",
         "owner": "internal-data-bridge"
       }
     },
@@ -442,18 +475,18 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/home/miikka/Documents/Git repositories/alppis.github.io/src/pages/404.js",
+      "component": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/home/miikka/Documents/Git repositories/alppis.github.io/src/pages/404.js",
+      "componentPath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "17265ef8f1c061a1680ffd54047ba979",
+        "contentDigest": "bfca02edd29e7706f08fbdcc89d8c679",
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
@@ -461,7 +494,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "c5d33680768a8b7578d7e489d9482b28"
+    "PLUGINS_HASH": "34e8fd63aafa8ade219114b3cb0b9638"
   },
   "componentDataDependencies": {
     "nodes": {},
@@ -474,17 +507,17 @@
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/home/miikka/Documents/Git repositories/alppis.github.io/.cache/dev-404-page.js": {
+    "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/home/miikka/Documents/Git repositories/alppis.github.io/.cache/dev-404-page.js"
+      "componentPath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/.cache/dev-404-page.js"
     },
-    "/home/miikka/Documents/Git repositories/alppis.github.io/src/pages/404.js": {
+    "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/src/pages/404.js": {
       "query": "",
-      "componentPath": "/home/miikka/Documents/Git repositories/alppis.github.io/src/pages/404.js"
+      "componentPath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/src/pages/404.js"
     },
-    "/home/miikka/Documents/Git repositories/alppis.github.io/src/pages/index.js": {
+    "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/src/pages/index.js": {
       "query": "",
-      "componentPath": "/home/miikka/Documents/Git repositories/alppis.github.io/src/pages/index.js"
+      "componentPath": "C:/Users/Miikka/Documents/Repositoryt/alppis.github.io/src/pages/index.js"
     }
   },
   "staticQueryComponents": {}

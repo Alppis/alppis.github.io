@@ -1,8 +1,8 @@
-import React from "react"
+import React from 'react'
 
 export default () => (
-    <div className="center">
-        <img src="https://source.unsplash.com/random/200x200" id="hero"/>
+    <div className='center'>
+        <img src='https://source.unsplash.com/random/200x200' id='hero'/>
         <h1>Miikka Alaperä</h1>
         <p>Information Processing Science student at the
             University of Oulu. Master's thesis currently in the
@@ -14,8 +14,8 @@ export default () => (
             comfortable working alone. Possess strong customer
             service skills.
         </p>
-        <p>In spare time, enjoys gaming, music, disc golf and 
-            downhill skiing
+        <p>
+            In spare time, enjoys gaming, music, disc golf and downhill skiing
         </p>
     </div>
 )
