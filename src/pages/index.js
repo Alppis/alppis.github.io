@@ -7,6 +7,12 @@ import Footer from '../components/footer'
 
 export default () => (
     <div>
+        <nav>
+            <a>/HOME</a>
+            <a>/WORKS</a>
+            <a>/SKILLS</a>
+            <a>/CONTACT</a>
+        </nav>
         <div id='jumbotron'>
             <Jumbotron />
         </div>
