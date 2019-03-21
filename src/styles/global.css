@@ -8,6 +8,7 @@ html, body {
 html {
     background-color: #383c4a;
     font-family: 'Comfortaa', cursive;
+    scroll-behavior: smooth;
 }
 
 h1 {
@@ -25,19 +26,25 @@ h4 {
 
 nav {
     display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
     background-color: #5294e2;
     color: white;
     height: 3rem;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     align-items: center;
-    padding-left: 10rem;
-    padding-right: 10rem;
 }
 
 nav a {
+    color: white;
     padding-left: 1rem;
     padding-right: 1rem;
+}
+
+.mrAuto {
+    margin-right: auto;
 }
 
 /*.fullWidth {
@@ -46,6 +53,7 @@ nav a {
 }*/
 
 #jumbotron {
+    padding-top: 3rem;
     font-weight: 500;
 }
 
@@ -61,6 +69,7 @@ nav a {
     background-color: #404552;
     border-top: 3px solid #323742;
     border-bottom: 3px solid #323742;
+    padding-top: 1.5rem;
 }
 
 .center {
@@ -82,6 +91,10 @@ nav a {
 
 .workShowcaseContainer {
     padding: 2px 16px;
+}
+
+#skills {
+    padding-top: 3rem;
 }
 
 #skills h1 {

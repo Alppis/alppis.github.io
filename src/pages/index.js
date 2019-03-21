@@ -8,10 +8,10 @@ import Footer from '../components/footer'
 export default () => (
     <div>
         <nav>
-            <a>/HOME</a>
-            <a>/WORKS</a>
-            <a>/SKILLS</a>
-            <a>/CONTACT</a>
+            <a href='#jumbotron' className='mrAuto'>/MIIKKA ALAPERÄ</a>
+            <a href='#works'>/WORKS</a>
+            <a href='#skills'>/SKILLS</a>
+            <a href='#contact'>/CONTACT</a>
         </nav>
         <div id='jumbotron'>
             <Jumbotron />
@@ -58,6 +58,12 @@ export default () => (
                     <Skills
                         skillIcon='fab fa-react'
                         skillName='React'
+                    />
+                </div>
+                <div className='skill'>
+                    <Skills
+                        skillIcon='fab fa-node'
+                        skillName='NodeJS'
                     />
                 </div>
                 <div className='skill'>
