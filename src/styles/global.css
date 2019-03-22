@@ -1,27 +1,36 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 
+@media only screen and (max-width: 600px) {
+    #intro {
+        width: 80%;
+    }
+  }
+
 html, body {
-    overflow-x: hidden;
     margin: 0;
+    height: 100%;
+    overflow-x: hidden;
 }
 
 html {
-    background-color: #383c4a;
+    background-color: #FAFAFF;
     font-family: 'Comfortaa', cursive;
     scroll-behavior: smooth;
 }
 
 h1 {
-    color: #5294e2;
+    color: #FAFAFF;
+    font-weight: 800;
     text-align: center;
 }
 
 h3, p {
-    color: #ccc;
+    color: #FAFAFF;
+    text-shadow: 2px 2px #222233;
 }
 
 h4 {
-    color: #5294e2;
+    color: #F7B2AD;;
 }
 
 nav {
@@ -29,18 +38,26 @@ nav {
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: #5294e2;
-    color: white;
+    background-color: #272e42;
     height: 3rem;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: flex-start;
     align-items: center;
 }
 
 nav a {
-    color: white;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    color: #FAFAFF;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+nav a:hover {
+    color: #F7B2AD;
+}
+
+nav a:active {
+    color: #F7B2AD;
 }
 
 .mrAuto {
@@ -53,36 +70,95 @@ nav a {
 }*/
 
 #jumbotron {
-    padding-top: 3rem;
+    padding-top: 1rem;
     font-weight: 500;
+    background-color: #222233;
+}
+
+#jumbotron h1 {
+    color: #FAFAFF;
+    text-shadow: 2px 2px #222233;
+    font-weight: 800;
+    text-align: center;
+}
+
+.jumboCenter {
+    margin: 4rem auto;
+    width: 100%;
+    height: auto;
+}
+
+#jumbotron p {
+    font-size: 1.3rem;
+    line-height: 1.6;
+    color: #FAFAFF;
+}
+
+#intro {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    text-align: justify;
 }
 
 #hero {
     border-radius: 50%;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    margin: 2rem auto 4rem auto;
+    width: 18rem;
+    border: 3px solid #272e42;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
 #works {
-    background-color: #404552;
-    border-top: 3px solid #323742;
-    border-bottom: 3px solid #323742;
-    padding-top: 1.5rem;
+    background-color: #222233;
+    border-top: 3px solid #444B6E;
+    border-bottom: 3px solid #444B6E;
+    padding-top: 1.8rem;
+    padding-bottom: 2rem;
+    width: 100%;
+}
+
+#works h1 {
+    margin: 2rem 0 0 0;
+    color: #D8DBE2;
+}
+
+#worksWrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0 3rem 0 3rem;
+}
+
+.parallax {
+    background-image: url('../img/parallax.jpg');
+    height: 100%;
+    width: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .center {
     margin: 3rem auto;
-    max-width: 600px;
+    max-width: 25rem;
     text-align: justify;
 }
 
 .workShowcase {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    margin-bottom: 2rem;
-    background-color: #383c4a;
+    margin: 2rem auto;
+    background-color: rgb(41, 44, 61);
+    border-bottom: 2px solid #F7B2AD;
+    flex-shrink: 1;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
 }
 
 .workShowcase:hover {
@@ -94,11 +170,14 @@ nav a {
 }
 
 #skills {
-    padding-top: 3rem;
+    padding-top: 2rem;
+    background-color: #222233;
+    border-bottom: 3px solid #444B6E;
 }
 
 #skills h1 {
     margin: 2rem 0 3rem 0;
+    color: #D8DBE2;
 }
 
 #skillsWrapper {
@@ -122,37 +201,42 @@ nav a {
 
 .skillIcon {
     font-size: 5rem;
-    color: #5294e2;
+    color: #53A2BE;
     justify-content: center;
     align-content: center;
 }
 
 #contact {
-    background-color: #404552;
-    border-top: 3px solid #323742;
-    border-bottom: 3px solid #323742;
+    background-color: #222233;
+    border-bottom: 3px solid #444B6E;
     display: flex;
 }
 
 #contact h1 {
-    padding-bottom: 1rem;
+    margin: 2rem 0 3rem 0;
+    color: #D8DBE2;
 }
 
 #contact i {
-    color: #5294e2;
+    color: #FAB3A9;
     font-size: 1,8rem;
     margin-right: 1rem;
 }
 
 #contact a {
-    color: #ccc;
+    color: #FAFAFF;
+}
+
+#contact a:hover {
+    color: #F7B2AD;
 }
 
 #footer {
     padding: 0.5rem 0 0.5rem 0;
+    background-color: #222233;
 }
 
 #footer p {
-    color: #5294e2;
+    color: #53A2BE;
     text-align: center;
 }

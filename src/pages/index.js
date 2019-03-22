@@ -13,12 +13,12 @@ export default () => (
             <a href='#skills'>/SKILLS</a>
             <a href='#contact'>/CONTACT</a>
         </nav>
-        <div id='jumbotron'>
+        <div id='jumbotron' className='parallax'>
             <Jumbotron />
         </div>
         <div id='works'>
-            <div id='worksWrapper' className='center'>
-                <h1>Works</h1>
+            <h1>Works</h1>
+            <div id='worksWrapper'>
                 <Works
                     showcaseImg='https://source.unsplash.com/random/600x300'
                     showcaseHeadline='alppis.github.io'
