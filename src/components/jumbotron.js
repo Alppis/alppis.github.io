@@ -14,10 +14,7 @@ export default () => (
                 Always interested in new challenges. Currently getting
                 started with React. Strong team player who is also
                 comfortable working alone. Possess strong customer
-                service skills.
-            </p>
-            <p>
-                In spare time, enjoys gaming, music, disc golf and downhill skiing
+                service skills. In spare time, enjoys gaming, music, disc golf and downhill skiing.
             </p>
         </div>
     </div>

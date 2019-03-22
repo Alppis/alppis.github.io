@@ -70,9 +70,11 @@ nav a:active {
 }*/
 
 #jumbotron {
-    padding-top: 1rem;
+    padding-top: 3rem;
     font-weight: 500;
     background-color: #222233;
+    height: 100%;
+    width: auto;
 }
 
 #jumbotron h1 {
@@ -83,9 +85,11 @@ nav a:active {
 }
 
 .jumboCenter {
-    margin: 4rem auto;
-    width: 100%;
-    height: auto;
+    margin: 0 auto;
+    padding: 2rem 0 2rem;
+    width: 100vw;
+    height: 100%;
+    width: auto;
 }
 
 #jumbotron p {
@@ -96,9 +100,11 @@ nav a:active {
 
 #intro {
     width: 80%;
-    height: auto;
     margin: 0 auto;
-    text-align: justify;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 #hero {
