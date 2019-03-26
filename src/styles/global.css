@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 
-@media only screen and (max-width: 600px) {
-    #intro {
-        width: 80%;
+/*@media (max-width: 600px) {
+    nav {
+        background-color: red;
+    }
+  }*/
+
+  @media (max-width: 600px) {    
+    #hero {
+        border: 3px solid red;  
     }
   }
 
@@ -70,7 +76,7 @@ nav a:active {
 }*/
 
 #jumbotron {
-    padding-top: 3rem;
+    padding-top: 1rem;
     font-weight: 500;
     background-color: #222233;
     height: 100%;
@@ -99,18 +105,19 @@ nav a:active {
 }
 
 #intro {
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    text-align: justify;
 }
 
 #hero {
     border-radius: 50%;
     display: block;
-    margin: 2rem auto 4rem auto;
+    margin: 2rem auto 1rem auto;
     width: 18rem;
     border: 3px solid #272e42;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -138,7 +145,7 @@ nav a:active {
 }
 
 .parallax {
-    background-image: url('../img/parallax.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../img/parallax.jpg');
     height: 100%;
     width: auto;
     background-attachment: fixed;
@@ -160,6 +167,7 @@ nav a:active {
     background-color: rgb(41, 44, 61);
     border-bottom: 2px solid #F7B2AD;
     flex-shrink: 1;
+    width: 50%;
 }
 
 .responsive {

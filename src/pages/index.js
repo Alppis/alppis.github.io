@@ -31,6 +31,13 @@ export default () => (
                     showcaseImg='https://source.unsplash.com/random/600x300'
                     showcaseHeadline='Bootstrap 4 demo'
                     showcaseDesc='Company website demo made with Bootstrap 4'/>
+                <Works
+                    showcaseImg='https://source.unsplash.com/random/600x300'
+                    showcaseHeadline='Diplomilukija'
+                    showcaseDesc='Student project done for Oulu City Library and Oulu University Teacher Training School.
+                    Project task was to develop a mobile application to make it easier for teenagers (7-9th graders) to accomplish a
+                    reading diploma. I took part in UI designing and prototyping, user testing and I was one of the applications main
+                    programmers. Programming was done by using HTML5, Javascript and CSS.'/>
             </div>
         </div>
         <div id='skills'>
